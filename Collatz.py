@@ -1,7 +1,5 @@
 """
-Chase Gillis  2/15/23	CSCI-UA 2 - 006
-Assignment #4 Problem #2
-I worked alone.
+Chase Gillis  2/15/23
 Title: Collatz Conjecture
 """
 
@@ -107,4 +105,3 @@ y = total / accumulator
 average = format(y, '.2f')
 
 print('The average number in the sequence is', average)
-
